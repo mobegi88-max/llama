@@ -11,7 +11,6 @@ If you have any questions, please feel free to file an issue on any of the above
 
 Thank you!
 
-
 # (Deprecated) Llama 2
 
 We are unlocking the power of large language models. Llama 2 is now accessible to individuals, creators, researchers, and businesses of all sizes so that they can experiment, innovate, and scale their ideas responsibly. 
